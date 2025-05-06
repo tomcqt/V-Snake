@@ -1,0 +1,16 @@
+{
+  "mode": "Blocks",
+  "hardwareTarget": "brain",
+  "robotConfig": [],
+  "slot": 2,
+  "platform": "IQ",
+  "sdkVersion": "20230818.11.00.00",
+  "appVersion": "4.0.8",
+  "minVersion": "3.0.0",
+  "fileFormat": "2.0.0",
+  "targetBrainGen": "First",
+  "v5SoundsEnabled": false,
+  "downloadLanguage": "python",
+  "cppStatus": "true",
+  "target": "Physical"
+}
